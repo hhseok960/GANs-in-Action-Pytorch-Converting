@@ -7,7 +7,7 @@
 
 #### Jakub Langr and Vladimir Bok, GANs in Action, MANNING, 2019.09 https://www.manning.com/books/gans-in-action
 
-#### These codes are converting the implementations presented in the above book (keras) into PyTorch. I conducted converting with the hope that PyTorch users would be more helpful in learning "GANs in Action". Thank you.
+#### These codes are the PyTorch converting codes of the implementations presented in the above book (keras). I conducted converting with the hope that PyTorch users would be more helpful in learning "GANs in Action". Thank you.
 
 ![image](https://user-images.githubusercontent.com/53814058/154838944-4bd48fef-425d-448f-b225-3ec768e432e4.png)
 ![image](https://user-images.githubusercontent.com/53814058/154838989-6ec5b670-7a68-4d66-ac9d-1e47a9439026.png)
